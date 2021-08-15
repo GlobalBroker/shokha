@@ -1,0 +1,36 @@
+.menu{
+    text-align: center;
+    
+}
+body{
+    background: url(../img/space.jpg);
+}
+.menu p {
+    color: white;
+}
+.menu h1{
+    color: white;
+}
+.soc-bottons-tg .fa{
+    font-size: 150px;
+    color: rgb(1, 225, 255);
+}
+.soc-bottons-tt .fa{
+    font-size: 150px;
+    color: rgb(255, 136, 0);
+}
+.soc-bottons-inst .fa{
+    font-size: 150px;
+    color: rgb(255, 0, 157);
+}
+.soc-bottons-call .fa{
+    font-size: 150px;
+    color: rgb(25, 167, 0);
+}
+.menu h1{
+    margin-bottom: 50px;
+}
+.menu img{
+    height: 200px;
+    width: 155px;
+}
